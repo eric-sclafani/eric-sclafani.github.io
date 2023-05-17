@@ -12,7 +12,7 @@ Welcome to my gallery. I like to snap close-ups of things in nature, as well as 
 
 **NOTE**: gallery is currently WIP. Displaying a folder of images on a static site it harder than I thought 😆
 
-<!-- <div class="gallery">
+<div class="gallery">
   {% assign image_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/gallery'" %}
   {% assign displayed_images = "" %}
 
@@ -21,7 +21,7 @@ Welcome to my gallery. I like to snap close-ups of things in nature, as well as 
     {% assign image_name = image_path | split: '/' | last %}
     {% unless displayed_images contains image_name %}
       <div class="image">
-        <img src="{{ site.baseurl }}/{{ image_path }}" alt="{{ image_name }}">
+        <img src="{{ site.baseurl }}{{ image_path }}" alt="{{ image_name }}">
       </div>
       {% assign displayed_images = displayed_images | append: image_name | append: "," %}
     {% endunless %}
@@ -44,4 +44,4 @@ Welcome to my gallery. I like to snap close-ups of things in nature, as well as 
     width: 100%;
     height: auto;
   }
-</style> -->
+</style>
