@@ -10,8 +10,6 @@ Welcome to my gallery. I like to snap close-ups of things in nature, as well as 
 
 ---
 
-**NOTE**: gallery is currently WIP. Displaying a folder of images on a static site it harder than I thought 😆
-
 <div class="gallery">
   {% assign image_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/gallery'" %}
   {% assign displayed_images = "" %}
