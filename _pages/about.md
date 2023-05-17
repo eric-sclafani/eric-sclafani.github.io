@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 <h1> <code>R</code>esearch</h1>
 
-Graduated from Stony Brook University with a master's in computational linguistics. My research focuses on using linguistically motivated stylometric feature extraction to perform authorship attribution, the task of automatically identifying the author of a document. This work was performed with [Dr. Owen Rambow](https://owenrambow.com/) on the [IARPA HIATUS grant](https://www.iarpa.gov/research-programs/hiatus). 
+Graduated from Stony Brook University with a master's degree in computational linguistics. My research focuses on using linguistically motivated stylometric feature extraction to perform authorship attribution, the task of automatically identifying the author of a document. This work was performed with [Dr. Owen Rambow](https://owenrambow.com/) on the [IARPA HIATUS grant](https://www.iarpa.gov/research-programs/hiatus). 
 
 My other research interests span both computational linguistics and NLP, including formal language theory, explainable AI, and low-resource NLP. Outside of the language domain, I also enjoy using data science, machine learning, and visualization techniques to analyze numerical datasets.
 
