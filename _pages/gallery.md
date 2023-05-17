@@ -8,11 +8,11 @@ nav_order: 5
 
 Welcome to my gallery. I like to snap close-ups of things in nature, as well as landscapes. I typically don't edit photos, though maybe I'll learn how to do it in the future.
 
-**Note**: some images below are being duplicated for some reason, so this page is WIP.
-
 ---
 
-<div class="gallery">
+**NOTE**: gallery is currently WIP. Displaying a folder of images on a static site it harder than I thought 😆
+
+<!-- <div class="gallery">
   {% assign image_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/gallery'" %}
   {% assign displayed_images = "" %}
 
@@ -44,4 +44,4 @@ Welcome to my gallery. I like to snap close-ups of things in nature, as well as 
     width: 100%;
     height: auto;
   }
-</style>
+</style> -->
