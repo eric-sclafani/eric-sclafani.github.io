@@ -3,15 +3,25 @@ layout: page
 title: Notes
 permalink: /notes/
 description: A growing collection of my marked up notes
-nav: true
+nav: false
 nav_order: 2
-display_categories: [work, fun,]
+display_categories: [
+  Probability & Statistics,
+  #Linear Algebra,
+  #Differential calculus,
+  #Python Libraries, 
+  #Machine Learning,
+  #Neural Networks,
+  #Finite State Machines,
+  #SQL,
+  #Docker 
+  
+  ]
 horizontal: false
 ---
 
 Welcome to my learning page. It contains my organized notes covering many different topics, free for all to consume and hopefully learn from. I plan on eventually migrating these notes to a free to use full stack learning website in the future.
 
-**NOTE**: all pages listed below are still placeholder ones. Real content coming soon.
 
 <!-- pages/projects.md -->
 <div class="projects">
