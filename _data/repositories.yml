@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - eric-sclafani/syntax-regex-matcher
+  - eric-sclafani/gram2vec
   - eric-sclafani/authorship_analysis
   - eric-sclafani/deltastar
   - eric-sclafani/RussianDateGenerator
