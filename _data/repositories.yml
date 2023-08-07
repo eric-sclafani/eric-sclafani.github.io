@@ -2,8 +2,8 @@ github_users:
   - eric-sclafani
 
 github_repos:
-  - eric-sclafani/deltastar
+  - eric-sclafani/syntax-regex-matcher
   - eric-sclafani/authorship_analysis
+  - eric-sclafani/deltastar
   - eric-sclafani/RussianDateGenerator
   - eric-sclafani/Madlibs
-  - eric-sclafani/ml_practice
