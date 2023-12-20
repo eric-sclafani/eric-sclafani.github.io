@@ -5,7 +5,6 @@ github_repos:
   - eric-sclafani/langviz
   - eric-sclafani/syntax-regex-matcher
   - eric-sclafani/gram2vec
-  - eric-sclafani/authorship_analysis
   - eric-sclafani/deltastar
   - eric-sclafani/RussianDateGenerator
   - eric-sclafani/Madlibs
